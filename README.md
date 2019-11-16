@@ -1,4 +1,4 @@
-# Purrwadhika JCDS Coding Challenge
+# Purwadhika JCDS Coding Challenge
 
 Pada repo ini, saya akan menjelaskan tentang coding challenge project yang diadakan di kampus tempat saya belajar, yaitu Purwadhika Startup & Coding School.
 
