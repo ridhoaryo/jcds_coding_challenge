@@ -12,7 +12,7 @@ Kelompok saya ada:
 
 Soal yang harus kita kerjakan adalah:
 
-![alt text] (https://github.com/ridhoaryo/jcds_coding_clhallenge/blob/master/soal.jpg "Soal")
+![alt text](https://github.com/ridhoaryo/jcds_coding_clhallenge/blob/master/soal.jpg "Soal")
 
 Yang menarik dari soal ini adalah, beberapa hari sebelumnya kita pernah diberi soal yang hampir mirip, yaitu mengubah posisi list dalam list (matrix)
 
